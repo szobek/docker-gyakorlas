@@ -1,0 +1,1 @@
+ docker container run -d  -p 8282:80 -v ${pwd}/src:/var/www/html/src b
